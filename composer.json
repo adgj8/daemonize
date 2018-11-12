@@ -1,0 +1,13 @@
+{
+    "name": "joseppe/daeminize",
+    "description": "守护进程工具",
+    "type": "library",
+    "license": "Apache License 2",
+    "authors": [
+        {
+            "name": "Joseppe Su 苏捷",
+            "email": "adgj8@hotmail.com"
+        }
+    ],
+    "require": {}
+}
